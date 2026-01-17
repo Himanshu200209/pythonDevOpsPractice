@@ -1,0 +1,2 @@
+# only pytest needed for this small example
+pytest
